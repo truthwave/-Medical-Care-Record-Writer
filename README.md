@@ -1,47 +1,57 @@
 # Medical & Care Record Writer
 
-> “Make medical and care documentation smoother.  
-> Say goodbye to spending hours struggling with phrasing.”
+> “Create professional Japanese medical and care records quickly and confidently.”
 
 ---
 
 ## 📌 Overview
 
-**Medical & Care Record Writer** is a GPT-powered assistant designed to help professionals in healthcare and caregiving efficiently generate daily documentation, such as visit records, progress reports, and care notes.
+**Medical & Care Record Writer** is a GPT-powered tool designed to help healthcare and care professionals generate clear, consistent Japanese documentation, such as visit records, progress notes, and daily care logs.
 
-It solves common challenges like:
+This tool helps solve common challenges like:
 
-- Uncertainty about proper wording
-- Excessive time spent on writing records
-- Burden on senior staff due to training newcomers
+- Spending excessive time writing records
+- Uncertainty about proper phrasing in medical and care contexts
+- Burden on experienced staff for training new team members
 
-This tool enables **smooth and consistent record creation**, saving time and improving documentation quality.
+By automating documentation, this tool **saves time, improves quality, and reduces stress** for professionals working in the Japanese healthcare field.
 
 ---
 
-## ⚙️ Features
+## ⚙️ Key Features
 
-- ✅ **Automated Record Generation**
-  - Generates text following standard formats for:
-    - Date and time
-    - Location
-    - Patient/resident conditions
-    - Care provided
-    - Observations or changes
-  - Tailored to commonly used structures in the healthcare field
+✅ **Automated Record Generation**
 
-- ✅ **Flexible Writing Styles**
-  - Polite style (desu/masu tone)
-  - Plain style
-  - Switchable based on facility policy or document type
+- Creates records using standard formats:
+  - Date and time
+  - Location
+  - Patient or resident conditions
+  - Care provided
+  - Observations or changes
+- Designed specifically for Japanese medical and care documentation structures
 
-- ✅ **Natural, Error-Free Japanese**
-  - Uses appropriate expressions specific to medical and care documentation
-  - Reduces inconsistency in phrasing
+---
 
-- ✅ **Privacy-Conscious Design**
-  - Prompts users not to enter real personal or facility names
-  - Ensures safe handling of confidential information
+✅ **Flexible Writing Styles**
+
+- Supports:
+  - Polite (desu/masu) style
+  - Plain (da/dearu) style
+- Allows easy switching based on facility policy or document type
+
+---
+
+✅ **Natural, Professional Japanese**
+
+- Generates text using phrases and expressions commonly used in the healthcare field
+- Ensures consistent terminology and reduces errors
+
+---
+
+✅ **Privacy-Conscious Design**
+
+- Reminds users not to enter real personal names or facility names
+- Promotes safe handling of confidential information
 
 ---
 
@@ -50,13 +60,13 @@ This tool enables **smooth and consistent record creation**, saving time and imp
 - Home-visit nurses
 - Care workers
 - Rehabilitation professionals (PT/OT/ST)
-- Healthcare or care facility staff responsible for documentation
+- Medical and care facility staff responsible for documentation
 - Supervisors training new staff
-- Organizations spending excessive time on paperwork
+- Organizations seeking to save time on record-keeping
 
 ---
 
-## 💻 Usage Examples
+## 💻 Usage Example
 
 ### Example Input
 
@@ -77,9 +87,71 @@ Noticed changes: Brighter facial expression and increased conversation compared 
 ```
 
 \[Visit Record]
-Visited S.K’s home on July 7, 2025. Patient continued to complain of lower back pain and discomfort during walking. Applied a compress to the lower back, checked pain level, and assisted with walking. Patient appeared brighter and more talkative compared to the previous day. Will continue monitoring progress.
+Visited S.K’s home on July 7, 2025. Patient continued to report persistent lower back pain and discomfort during walking. Applied a compress to the lower back, checked the pain level, and assisted with walking. Compared to the previous day, the patient showed a brighter facial expression and increased conversation. Continued monitoring is planned.
 
 ```
+
+---
+
+### Example Output (Plain Style)
+
+```
+
+\[Visit Record]
+Visited S.K’s home on July 7, 2025. Lower back pain persisted, and the patient complained of discomfort during walking. A compress was applied, pain level was checked, and walking assistance was provided. Compared to the previous day, facial expression was brighter, and conversation increased. Will continue to monitor progress.
+
+```
+
+---
+
+## 💡 Technical Highlights
+
+- **Custom GPT Prompt Engineering**
+  - Defines precise templates for Japanese medical and care records
+  - Produces concise and objective language suitable for professional documentation
+
+- **Style Switching**
+  - Supports both polite and plain styles based on record type or institutional preference
+
+- **Security Focus**
+  - Incorporates reminders to avoid entering personal or sensitive data
+  - Emphasizes confidentiality and legal compliance
+
+- **User-Friendly UX**
+  - Provides input templates to make it easy for users unfamiliar with AI tools
+
+---
+
+## ⚠️ Disclaimer
+
+- This tool is intended to support professionals in the healthcare and care industries.
+- Final review and editing by a qualified professional is always required.
+- Do not enter real personal names or facility names.
+
+---
+
+## 🌐 Demo
+
+[Medical & Care Record Writer on ChatGPT](https://chatgpt.com/g/g-686c82cfe2e88191a974d81037431cf7-yi-liao-jie-hu-xian-chang-noji-lu-wen-shu-zi-dong-sheng-cheng-asisutanto)
+
+---
+
+## 👨‍💻 My Role
+
+I designed and developed the entire solution, including:
+
+- GPT prompt engineering
+- UI/UX design
+- Testing and refining healthcare-specific language outputs
+
+---
+
+## 📄 License
+
+MIT License
+```
+
+---
 
 ---
 
@@ -139,37 +211,26 @@ Visited S.K’s home on July 7, 2025. Patient continued to complain of lower bac
 
 ### 入力例
 
-```
-
 利用者の氏名（イニシャル可）：S.K
 記録対象日：2025年7月7日
 主な症状・状態：腰痛が続いており、歩行時に苦痛を訴える
 実施したケア・支援内容：腰部の湿布貼付、痛みの確認、歩行介助
 気づいた点・変化など：昨日より表情が少し明るく会話が増えていた
 
-```
 
 ---
 
 ### GPTの生成例（敬体バージョン）
-
-```
-
 【訪問記録】
 2025年7月7日、S.K様宅を訪問。腰痛が続いており、歩行時に苦痛を訴えていたため、腰部に湿布を貼付し、痛みの度合いを確認した。歩行介助を行ったところ、昨日より表情が明るく、会話量も増加していた。引き続き経過を観察する。
 
-```
 
 ---
 
 ### GPTの生成例（常体バージョン）
-
-```
-
 【訪問記録】
 2025年7月7日、S.K宅を訪問。腰痛が続き、歩行時に痛みを訴えるため、腰部に湿布を貼付し痛みの程度を確認。歩行介助を実施した。前日より表情が明るく、会話も増えていた。今後も経過を観察する。
 
-```
 
 ---
 
@@ -208,4 +269,7 @@ Visited S.K’s home on July 7, 2025. Patient continued to complain of lower bac
 ## 📄 License
 
 MIT License
-```
+
+
+
+
