@@ -1,5 +1,83 @@
 # Medical & Care Record Writer
 
+> “Make medical and care documentation smoother.  
+> Say goodbye to spending hours struggling with phrasing.”
+
+---
+
+## 📌 Overview
+
+**Medical & Care Record Writer** is a GPT-powered assistant designed to help professionals in healthcare and caregiving efficiently generate daily documentation, such as visit records, progress reports, and care notes.
+
+It solves common challenges like:
+
+- Uncertainty about proper wording
+- Excessive time spent on writing records
+- Burden on senior staff due to training newcomers
+
+This tool enables **smooth and consistent record creation**, saving time and improving documentation quality.
+
+---
+
+## ⚙️ Features
+
+✅ **Automated Record Generation**
+
+- Generates text following standard formats for:
+  - Date and time
+  - Location
+  - Patient/resident conditions
+  - Care provided
+  - Observations or changes
+- Tailored to commonly used structures in the healthcare field
+
+✅ **Flexible Writing Styles**
+
+- Polite style (desu/masu tone)
+- Plain style
+- Switchable based on facility policy or document type
+
+✅ **Natural, Error-Free Japanese**
+
+- Uses appropriate expressions specific to medical and care documentation
+- Reduces inconsistency in phrasing
+
+✅ **Privacy-Conscious Design**
+
+- Prompts users not to enter real personal or facility names
+- Ensures safe handling of confidential information
+
+---
+
+## 🎯 Target Users
+
+- Home-visit nurses
+- Care workers
+- Rehabilitation professionals (PT/OT/ST)
+- Healthcare or care facility staff responsible for documentation
+- Supervisors training new staff
+- Organizations spending excessive time on paperwork
+
+---
+
+## 💻 Usage Examples
+
+### Example Input
+
+- Client name (initials allowed): S.K  
+- Date of record: July 7, 2025  
+- Main symptoms/conditions: Persistent lower back pain, complains of discomfort while walking  
+- Care provided: Applied a compress to the lower back, checked pain level, assisted with walking  
+- Noticed changes: Brighter facial expression and increased conversation compared to the previous day
+
+---
+
+### Example Output (Polite Style)
+
+
+
+# Medical & Care Record Writer
+
 「介護・医療記録の作成をもっとスムーズに。文例に悩む時間をゼロに。」
 
 ---
