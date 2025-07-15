@@ -161,10 +161,6 @@ MIT License
 
 > **“Reduce stress and improve quality — let AI help write your medical records.”**
 
-```
-
-
-
 
 # 介護・医療記録自動生成アシスタント
 
