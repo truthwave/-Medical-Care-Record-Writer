@@ -1,72 +1,76 @@
 # Medical & Care Record Writer
 
-> “Create professional Japanese medical and care records quickly and confidently.”
+> **“Save time, reduce stress, and create professional Japanese medical records with confidence.”**
 
 ---
 
 ## 📌 Overview
 
-**Medical & Care Record Writer** is a GPT-powered tool designed to help healthcare and care professionals generate clear, consistent Japanese documentation, such as visit records, progress notes, and daily care logs.
+**Medical & Care Record Writer** is a GPT-powered assistant designed specifically for **healthcare and care professionals in Japan** who write daily records like visit notes, progress reports, and care logs.
 
-This tool helps solve common challenges like:
+If you’ve ever thought:
 
-- Spending excessive time writing records
-- Uncertainty about proper phrasing in medical and care contexts
-- Burden on experienced staff for training new team members
+- “Writing records takes me too long…”
+- “I’m unsure how to phrase things professionally…”
+- “I’m spending too much time training new staff…”
 
-By automating documentation, this tool **saves time, improves quality, and reduces stress** for professionals working in the Japanese healthcare field.
+This tool is for you.  
+
+By automatically generating documents in clear, professional Japanese, it helps you **work faster, maintain consistent quality, and reduce your workload.**
+
+Perfect for:
+
+- Home-visit nurses
+- Care workers
+- Rehabilitation specialists (PT/OT/ST)
+- Medical and care facility staff
+- Supervisors training new staff
+- Organizations aiming to improve efficiency
+
+---
+
+⚠️ **Disclaimer**
+
+- This tool is for support and reference purposes only.
+- Final record content must be reviewed and edited by qualified professionals.
+- Do **not** enter real personal names, facility names, or confidential data.
 
 ---
 
 ## ⚙️ Key Features
 
-✅ **Automated Record Generation**
-
-- Creates records using standard formats:
+✅ **Automated Record Generation**  
+- Creates records in standard Japanese medical formats:
   - Date and time
   - Location
-  - Patient or resident conditions
+  - Client condition
   - Care provided
-  - Observations or changes
-- Designed specifically for Japanese medical and care documentation structures
+  - Observations and changes
+- Based on real healthcare documentation structures used in Japan
 
 ---
 
-✅ **Flexible Writing Styles**
-
-- Supports:
-  - Polite (desu/masu) style
-  - Plain (da/dearu) style
-- Allows easy switching based on facility policy or document type
-
----
-
-✅ **Natural, Professional Japanese**
-
-- Generates text using phrases and expressions commonly used in the healthcare field
-- Ensures consistent terminology and reduces errors
+✅ **Flexible Writing Styles**  
+- Easily switch between:
+  - Polite (です・ます調)
+  - Plain (だ・である調)
+- Adaptable to facility policies and record types
 
 ---
 
-✅ **Privacy-Conscious Design**
-
-- Reminds users not to enter real personal names or facility names
-- Promotes safe handling of confidential information
-
----
-
-## 🎯 Target Users
-
-- Home-visit nurses
-- Care workers
-- Rehabilitation professionals (PT/OT/ST)
-- Medical and care facility staff responsible for documentation
-- Supervisors training new staff
-- Organizations seeking to save time on record-keeping
+✅ **Professional, Natural Japanese**  
+- Uses expressions and terms familiar in medical and care settings
+- Helps maintain consistent wording and reduces mistakes
 
 ---
 
-## 💻 Usage Example
+✅ **Privacy-Safe Design**  
+- Reminds users to avoid entering personal data
+- Supports safe handling of confidential information
+
+---
+
+## 💻 Example Usage
 
 ### Example Input
 
@@ -85,9 +89,9 @@ Noticed changes: Brighter facial expression and increased conversation compared 
 ### Example Output (Polite Style)
 
 ```
+[Visit Record]
+Visited S.K’s home on July 7, 2025. Patient continued to report persistent lower back pain and discomfort during walking. Applied a compress to the lower back, checked pain level, and assisted with walking. Compared to the previous day, the patient showed a brighter facial expression and increased conversation. Continued monitoring is planned.
 
-\[Visit Record]
-Visited S.K’s home on July 7, 2025. Patient continued to report persistent lower back pain and discomfort during walking. Applied a compress to the lower back, checked the pain level, and assisted with walking. Compared to the previous day, the patient showed a brighter facial expression and increased conversation. Continued monitoring is planned.
 
 ```
 
@@ -104,29 +108,32 @@ Visited S.K’s home on July 7, 2025. Lower back pain persisted, and the patient
 
 ---
 
-## 💡 Technical Highlights
-
-- **Custom GPT Prompt Engineering**
-  - Defines precise templates for Japanese medical and care records
-  - Produces concise and objective language suitable for professional documentation
-
-- **Style Switching**
-  - Supports both polite and plain styles based on record type or institutional preference
-
-- **Security Focus**
-  - Incorporates reminders to avoid entering personal or sensitive data
-  - Emphasizes confidentiality and legal compliance
-
-- **User-Friendly UX**
-  - Provides input templates to make it easy for users unfamiliar with AI tools
 
 ---
 
-## ⚠️ Disclaimer
+## 💡 Technical Highlights
 
-- This tool is intended to support professionals in the healthcare and care industries.
-- Final review and editing by a qualified professional is always required.
-- Do not enter real personal names or facility names.
+- **Custom GPT Prompt Engineering**  
+  - Tailored for Japanese medical and care documentation  
+  - Generates concise, objective records
+
+- **Style Switching**  
+  - Adapts writing style for different facilities and use cases
+
+- **Security Awareness**  
+  - Includes reminders about handling personal data safely
+
+- **User-Friendly UX**  
+  - Provides input templates so anyone can use it, even without technical expertise
+
+---
+
+## 🔮 Future Plans
+
+- Support for more document types (e.g. rehabilitation plans, discharge summaries)
+- Export options to formats like PDF or Excel
+- Integration with electronic medical record (EMR) systems
+- Expansion to multilingual support for facilities serving diverse communities
 
 ---
 
@@ -138,22 +145,26 @@ Visited S.K’s home on July 7, 2025. Lower back pain persisted, and the patient
 
 ## 👨‍💻 My Role
 
-I designed and developed the entire solution, including:
+I planned, designed, and developed this tool entirely by myself:
 
-- GPT prompt engineering
-- UI/UX design
-- Testing and refining healthcare-specific language outputs
+- Custom GPT prompt design
+- UX/UI layout
+- Refinement and testing for healthcare-specific language
 
 ---
 
 ## 📄 License
 
 MIT License
+
+---
+
+> **“Reduce stress and improve quality — let AI help write your medical records.”**
+
 ```
 
----
 
----
+
 
 # 介護・医療記録自動生成アシスタント
 
