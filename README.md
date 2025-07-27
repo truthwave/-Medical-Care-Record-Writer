@@ -1,3 +1,7 @@
+<p>
+<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/cecb2f29-9b89-4ea4-b6ef-b254a753921b" />
+</p>
+
 # 介護・医療記録自動生成アシスタント
 
 > 「介護・医療記録の作成をもっとスムーズに。文例に悩む時間をゼロに。」
