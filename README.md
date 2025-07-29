@@ -1,6 +1,7 @@
 <p>
+<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント (3)" src="https://github.com/user-attachments/assets/43d6d9b1-e1eb-4e09-b80b-985a7f07ae52" />
 
-<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント (3)" src="https://github.com/user-attachments/assets/06ca8b99-968c-4fa2-88ad-86608e9b53ae" />
+
 
 </p>
 
