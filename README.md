@@ -1,9 +1,5 @@
 <p>
-
-
 <img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント (4)" src="https://github.com/user-attachments/assets/ccf2ff37-9b14-4d7f-9d5b-ad1c026bcbab" />
-
-
 </p>
 
 # 介護・医療記録自動生成アシスタント
@@ -12,8 +8,7 @@
 
 ---
 
-## 📌 概要 / Overview
-
+## 📌 概要
 **Medical & Care Record Writer** は、介護・医療現場で毎日発生する  
 訪問記録・経過報告・支援内容などの記録作成を支援する GPT アシスタントです。
 
@@ -26,7 +21,7 @@
 
 ---
 
-## ⚙️ 主な機能 / Features
+## ⚙️ 主な機能
 
 - ✅ **記録フォーマットに沿った自動生成**
   - 日時、場所、対象者の状態、支援内容、観察点など
@@ -47,7 +42,7 @@
 
 ---
 
-## 🎯 想定ユーザー / Target Users
+## 🎯 想定ユーザー
 
 - 訪問看護師
 - 介護職員
@@ -58,7 +53,7 @@
 
 ---
 
-## 💻 使用例 / Usage Examples
+## 💻 使用例
 
 ### 入力例
 
@@ -85,7 +80,7 @@
 
 ---
 
-## 💡 技術的ポイント / Technical Highlights
+## 💡 技術的ポイント
 
 - **業界に即したプロンプト設計**
   - 医療・介護の記録文書フォーマットを詳細に定義
@@ -103,7 +98,7 @@
 
 ---
 
-## ⚠️ 注意事項 / Disclaimer
+## ⚠️ 注意事項
 
 - 本ツールは介護・医療現場の支援を目的とした文章生成ツールです。
 - 記録内容は最終的に専門職による確認が必要です。
@@ -111,13 +106,13 @@
 
 ---
 
-## 🌐 Demo
+## 🌐 デモ
 
 [Medical & Care Record Writer on ChatGPT](https://chatgpt.com/g/g-686c82cfe2e88191a974d81037431cf7-yi-liao-jie-hu-xian-chang-noji-lu-wen-shu-zi-dong-sheng-cheng-asisutanto)
 
 ---
 
-## 📄 License
+## 📄 ライセンス
 
 MIT License
 
