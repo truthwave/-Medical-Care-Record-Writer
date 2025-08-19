@@ -49,6 +49,7 @@
 ---
 
 ## 📸 **体験イメージ**
+![デモ動画](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
 ![介護記録の入力例と生成例](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E4%BB%8B%E8%AD%B7%E8%A8%98%E9%8C%B2%E3%81%AE%E5%85%A5%E5%8A%9B%E4%BE%8B%E3%81%A8%E7%94%9F%E6%88%90%E4%BE%8B.jpeg)
 
