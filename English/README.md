@@ -1,3 +1,9 @@
+<p align="center">
+<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/877dae6d-a981-4551-acf9-35fc010dd18d" />
+
+</p>
+
+
 # Medical & Care Record Writer
 
 > **“Save time, reduce stress, and create professional Japanese medical records with confidence.”**
