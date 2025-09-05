@@ -152,11 +152,7 @@ Visited S.K’s home on July 7, 2025. Lower back pain persisted, and the patient
 - Integration with electronic medical record (EMR) systems
 - Expansion to multilingual support for facilities serving diverse communities
 
----
 
-## 🌐 Demo
-
-[Medical & Care Record Writer on ChatGPT](https://chatgpt.com/g/g-686c82cfe2e88191a974d81037431cf7-yi-liao-jie-hu-xian-chang-noji-lu-wen-shu-zi-dong-sheng-cheng-asisutanto)
 
 ---
 
