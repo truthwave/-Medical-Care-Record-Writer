@@ -154,6 +154,8 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 
 MIT License
 
+---
+
 ## 🧑‍💻 作者
 
 [ともAI便り](https://github.com/TomoAIDayori)
