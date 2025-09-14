@@ -23,10 +23,7 @@
 
 
 ## [プロジェクト概要](https://youtu.be/lejoUZS3Jls)
-![スライド2](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%892.PNG)
-![スライド3](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%893.PNG)
-![スライド4](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%894.PNG)
-![スライド5](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89/%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%895.PNG)
+[スライド資料はこちら](https://github.com/truthwave/-Medical-Care-Record-Writer/tree/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89)
 
 ---
 
