@@ -158,7 +158,7 @@ MIT License
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+[ともAI便り](https://github.com/truthwave)
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 
 ## お気軽にご連絡ください
