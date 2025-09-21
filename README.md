@@ -137,11 +137,11 @@ AIプロンプト設計・カスタマイズ・導入サポートをご希望の
 🎯 先着3名様限定｜初回販売キャンペーン中
 <br>初めての方にも安心してご利用いただけるよう、レビューにご協力いただける方へ特別価格でご提供しています。
 
-👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmf6e1w1v00bmdh0he2160a61)
+### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmf6e1w1v00bmdh0he2160a61)
 
 介護・医療記録テンプレート集(オプション)
 
-👉 [オプションの販売ページを見る](https://coconala.com/services/3862193)
+#### 👉 [オプションの販売ページを見る](https://coconala.com/services/3862193)
 
 ---
 
