@@ -57,11 +57,8 @@
 ## 📸 **体験イメージ**
 ![デモ動画](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E3%83%87%E3%83%A2%E5%8B%95%E7%94%BB.gif)
 
-![介護記録の入力例と生成例](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E4%BB%8B%E8%AD%B7%E8%A8%98%E9%8C%B2%E3%81%AE%E5%85%A5%E5%8A%9B%E4%BE%8B%E3%81%A8%E7%94%9F%E6%88%90%E4%BE%8B.jpeg)
+[スクリーンショットはこちら](https://github.com/truthwave/-Medical-Care-Record-Writer/tree/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88)
 
-![介護記録の日本語と英語の例文](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E4%BB%8B%E8%AD%B7%E8%A8%98%E9%8C%B2%E3%81%AE%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A8%E8%8B%B1%E8%AA%9E%E3%81%AE%E4%BE%8B%E6%96%87.jpeg)
-
-![記録のばらつき防止と統一例](https://github.com/TomoProgrammingDayori/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E8%A8%98%E9%8C%B2%E3%81%AE%E3%81%B0%E3%82%89%E3%81%A4%E3%81%8D%E9%98%B2%E6%AD%A2%E3%81%A8%E7%B5%B1%E4%B8%80%E4%BE%8B.jpeg)
 
 ---
 
