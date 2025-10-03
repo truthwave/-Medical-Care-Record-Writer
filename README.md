@@ -1,11 +1,13 @@
-<p align="center">
-<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/c676bb77-4ec7-4208-a061-03d7346ccb03" />
-</p>
-
 # GPT搭載｜介護・医療記録 自動生成アシスタント
 
 > 記録は作業だ。
 > 向き合うべきは、人だ。
+
+<p align="center">
+<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/c676bb77-4ec7-4208-a061-03d7346ccb03" />
+</p>
+
+
 
 ---
 
