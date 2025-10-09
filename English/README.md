@@ -1,16 +1,33 @@
+# GPT-Powered｜Care & Medical Record Auto-Generation Assistant
+
+> Documentation is a task.
+> People are what we should focus on.
+
 <p align="center">
 <img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/877dae6d-a981-4551-acf9-35fc010dd18d" />
 
 </p>
 
+---
 
-# Medical & Care Record Writer
+## ✨ Experience
+In nursing and medical settings, a single record takes over 10 minutes.
+This assistant **completes it in 30 seconds**.
 
-> **“Save time, reduce stress, and create professional Japanese medical records with confidence.”**
+No more hesitation. No more uncertainty.
+Consistent, accurate records are ready instantly, freeing your time to **focus on your patients**.
 
 ---
 
-## 📸 **Experience Image**
+## 🚀 Impact
+* Dramatically reduces time spent on documentation
+* Eliminates inconsistencies in phrasing, ensuring uniform, reliable documents
+* Even new staff unsure of writing style can maintain consistent quality records
+
+
+---
+
+## 📸 **Experience Overview**
 ![デモ動画](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/Demo%20Movie.gif)
 
 ![介護記録の入力例と生成例](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/care-record-generation-example.png)
@@ -19,150 +36,64 @@
 
 ![記録のばらつき防止と統一例](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/record-consistency-comparison.png)
 
----
-
-## 📌 Overview
-
-**Medical & Care Record Writer** is a GPT-powered assistant designed specifically for **healthcare and care professionals in Japan** who write daily records like visit notes, progress reports, and care logs.
-
-If you’ve ever thought:
-
-- “Writing records takes me too long…”
-- “I’m unsure how to phrase things professionally…”
-- “I’m spending too much time training new staff…”
-
-This tool is for you.  
-
-By automatically generating documents in clear, professional Japanese, it helps you **work faster, maintain consistent quality, and reduce your workload.**
-
-Perfect for:
-
-- Home-visit nurses
-- Care workers
-- Rehabilitation specialists (PT/OT/ST)
-- Medical and care facility staff
-- Supervisors training new staff
-- Organizations aiming to improve efficiency
 
 ---
 
-⚠️ **Disclaimer**
+## 🛠 Simple to Use
 
-- This tool is for support and reference purposes only.
-- Final record content must be reviewed and edited by qualified professionals.
-- Do **not** enter real personal names, facility names, or confidential data.
+1. Enter the client's condition
+2. Choose polite or casual style
+3. Records are automatically formatted
 
----
+That's all.
 
-## ⚙️ Key Features
-
-✅ **Automated Record Generation**  
-- Creates records in standard Japanese medical formats:
-  - Date and time
-  - Location
-  - Client condition
-  - Care provided
-  - Observations and changes
-- Based on real healthcare documentation structures used in Japan
-
----
-
-✅ **Flexible Writing Styles**  
-- Easily switch between:
-  - Polite (です・ます調)
-  - Plain (だ・である調)
-- Adaptable to facility policies and record types
-
----
-
-✅ **Professional, Natural Japanese**  
-- Uses expressions and terms familiar in medical and care settings
-- Helps maintain consistent wording and reduces mistakes
-
----
-
-✅ **Privacy-Safe Design**  
-- Reminds users to avoid entering personal data
-- Supports safe handling of confidential information
 
 ---
 
 ## 💻 Example Usage
 
-### Example Input
+### Input Example
 
-```
-
-Client name (initials allowed): S.K
-Date of record: July 7, 2025
-Main symptoms/conditions: Persistent lower back pain, complains of discomfort while walking
-Care provided: Applied a compress to the lower back, checked pain level, assisted with walking
-Noticed changes: Brighter facial expression and increased conversation compared to the previous day
-
-```
+Client's Name (Initials acceptable): S.K
+Date of Record: July 7, 2025
+Primary Symptoms/Condition: Persistent lower back pain, reports discomfort while walking
+Care/Support Provided: Applied heat patch to lower back, assessed pain level, assisted with walking
+Observations/Changes: Appeared slightly more cheerful than yesterday and engaged in more conversation
 
 ---
 
-### Example Output (Polite Style)
+### GPT Generation Example (Polite Version)
 
-```
-[Visit Record]
-Visited S.K’s home on July 7, 2025. Patient continued to report persistent lower back pain and discomfort during walking. Applied a compress to the lower back, checked pain level, and assisted with walking. Compared to the previous day, the patient showed a brighter facial expression and increased conversation. Continued monitoring is planned.
-
-
-```
+【Visit Record】
+Visited Mr./Ms. S.K's residence on July 7, 2025. Due to persistent lower back pain and complaints of discomfort while walking, applied a heat patch to the lower back and assessed the pain level. Provided walking assistance. Compared to yesterday, the patient's expression was brighter and conversation increased. Will continue to monitor progress.
 
 ---
 
-### Example Output (Plain Style)
+### GPT Generation Example (Informal Version)
 
-```
-
-\[Visit Record]
-Visited S.K’s home on July 7, 2025. Lower back pain persisted, and the patient complained of discomfort during walking. A compress was applied, pain level was checked, and walking assistance was provided. Compared to the previous day, facial expression was brighter, and conversation increased. Will continue to monitor progress.
-
-```
+【Visit Record】
+Visited S.K.'s residence on July 7, 2025. Due to persistent lower back pain and complaints of pain during walking, applied a heat patch to the lower back and assessed the pain level. Provided walking assistance. Compared to the previous day, the patient's expression was brighter and conversation increased. Will continue to monitor progress.
 
 ---
 
+## ⚠️ Important Notes 
+
+* This tool is designed to assist in caregiving and medical settings by generating text.
+* Recorded content requires final verification by a licensed professional.
+* Do not input real names of individuals or facilities.
 
 ---
 
-## 💡 Technical Highlights
+## 🛒 Use Now
 
-- **Custom GPT Prompt Engineering**  
-  - Tailored for Japanese medical and care documentation  
-  - Generates concise, objective records
+This project is currently available for purchase on Coconala.  
+For AI prompt design, customization, or implementation support, please inquire below.
 
-- **Style Switching**  
-  - Adapts writing style for different facilities and use cases
+### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmf6e1w1v00bmdh0he2160a61)
 
-- **Security Awareness**  
-  - Includes reminders about handling personal data safely
+Care & Medical Record Template Collection (Optional)
 
-- **User-Friendly UX**  
-  - Provides input templates so anyone can use it, even without technical expertise
-
----
-
-## 🔮 Future Plans
-
-- Support for more document types (e.g. rehabilitation plans, discharge summaries)
-- Export options to formats like PDF or Excel
-- Integration with electronic medical record (EMR) systems
-- Expansion to multilingual support for facilities serving diverse communities
-
-
-
----
-
-## 👨‍💻 My Role
-
-I planned, designed, and developed this tool entirely by myself:
-
-- Custom GPT prompt design
-- UX/UI layout
-- Refinement and testing for healthcare-specific language
+#### 👉 [View the Option Sales Page](https://coconala.com/services/3862193)
 
 ---
 
@@ -172,5 +103,17 @@ MIT License
 
 ---
 
-> **“Reduce stress and improve quality — let AI help write your medical records.”**
+## 🧑‍💻 Creator
 
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
+Please also check out information about our portfolio and AI tool development!
+
+## Feel Free to Contact Us
+[📩 Inquiries & Quotes](mailto:realmadrid71214591@gmail.com)
+
+---
+
+## 🏁 Final Thoughts
+
+> Reduce your records.
+> Observe people.
