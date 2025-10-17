@@ -4,7 +4,7 @@
 > 向き合うべきは、人だ。
 
 <p align="center">
-<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/c676bb77-4ec7-4208-a061-03d7346ccb03" />
+<img width="1536" height="1024" alt="医療記録 (2)" src="https://github.com/user-attachments/assets/b95620e6-eb3e-4849-a5f0-00a0bc039bd8" />
 </p>
 
 
