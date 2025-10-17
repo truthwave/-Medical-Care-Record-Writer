@@ -4,7 +4,8 @@
 > People are what we should focus on.
 
 <p align="center">
-<img width="1536" height="1024" alt="「介護・医療記録の自動作成アシスタント" src="https://github.com/user-attachments/assets/877dae6d-a981-4551-acf9-35fc010dd18d" />
+
+<img width="1536" height="1024" alt="医療記録 (3)" src="https://github.com/user-attachments/assets/2228f6ee-cb92-4fae-a08d-84f29d0c2d7a" />
 
 </p>
 
