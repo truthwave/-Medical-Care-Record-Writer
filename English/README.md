@@ -4,9 +4,7 @@
 > People are what we should focus on.
 
 <p align="center">
-
-<img width="1536" height="1024" alt="医療記録 (3)" src="https://github.com/user-attachments/assets/2228f6ee-cb92-4fae-a08d-84f29d0c2d7a" />
-
+<img width="1536" height="1024" alt="医療記録" src="https://github.com/user-attachments/assets/1fff3892-a809-4abf-92ba-8c7afd26b1cf" />
 </p>
 
 ---
