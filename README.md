@@ -4,7 +4,7 @@
 > 向き合うべきは、人だ。
 
 <p align="center">
-<img width="1536" height="1024" alt="医療記録 (2)" src="https://github.com/user-attachments/assets/b95620e6-eb3e-4849-a5f0-00a0bc039bd8" />
+<img width="1536" height="1024" alt="医療記録" src="https://github.com/user-attachments/assets/06a671db-9c0a-4972-997f-9e33dd0e0d74" />
 </p>
 
 
