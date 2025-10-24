@@ -15,7 +15,6 @@
 
 悩まない。迷わない。
 均質で正確な記録が一瞬で整い、あなたの時間は**利用者と向き合う時間**に戻る。
-<img width="1280" height="720" alt="医療記録" src="https://github.com/user-attachments/assets/1c3ec52a-59c0-401c-9328-945d5a619495" />
 
 ---
 
