@@ -15,11 +15,12 @@
 
 悩まない。迷わない。
 均質で正確な記録が一瞬で整い、あなたの時間は**利用者と向き合う時間**に戻る。
+<img width="1280" height="720" alt="医療記録" src="https://github.com/user-attachments/assets/1c3ec52a-59c0-401c-9328-945d5a619495" />
 
 ---
 
 ## プロジェクト概要
-[![10分の記録が、30秒に。｜介護・医療記録 自動生成アシスタント](https://github.com/user-attachments/assets/346c5389-4fa4-488c-823f-340b01151539)](https://youtu.be/FWrqUYlq-nk)
+[![10分の記録が、30秒に。｜介護・医療記録 自動生成アシスタント](https://github.com/user-attachments/assets/1c3ec52a-59c0-401c-9328-945d5a619495)](https://youtu.be/FWrqUYlq-nk)
 
 #### [スライド資料はこちら](https://github.com/truthwave/-Medical-Care-Record-Writer/blob/main/%E8%B3%87%E6%96%99/%E4%BB%8B%E8%AD%B7%E3%83%BB%E5%8C%BB%E7%99%82%E8%A8%98%E9%8C%B2%E8%87%AA%E5%8B%95%E7%94%9F%E6%88%90%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88%20%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89.pdf)
 
