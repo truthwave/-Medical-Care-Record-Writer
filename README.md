@@ -7,8 +7,6 @@
 <img width="1536" height="1024" alt="医療記録" src="https://github.com/user-attachments/assets/06a671db-9c0a-4972-997f-9e33dd0e0d74" />
 </p>
 
-
-
 ---
 
 ## ✨ 体験
