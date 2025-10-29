@@ -27,14 +27,7 @@ Consistent, accurate records are ready instantly, freeing your time to **focus o
 ---
 
 ## 📸 **Experience Overview**
-![デモ動画](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/Demo%20Movie.gif)
-
-![介護記録の入力例と生成例](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/care-record-generation-example.png)
-
-![介護記録の日本語と英語の例文](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/care-record-bilingual-example.png)
-
-![記録のばらつき防止と統一例](https://github.com/TomoAIDayori/-Medical-Care-Record-Writer/blob/main/English/record-consistency-comparison.png)
-
+![デモ動画](https://github.com/truthwave/-Medical-Care-Record-Writer/blob/main/English/Materials/Demo%20Movie.gif)
 
 ---
 
