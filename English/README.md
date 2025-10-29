@@ -29,6 +29,8 @@ Consistent, accurate records are ready instantly, freeing your time to **focus o
 ## 📸 **Experience Overview**
 ![デモ動画](https://github.com/truthwave/-Medical-Care-Record-Writer/blob/main/English/Materials/Demo%20Movie.gif)
 
+### [Screenshot](https://github.com/truthwave/-Medical-Care-Record-Writer/tree/main/English/Materials/Screenshot)
+
 ---
 
 ## 🛠 Simple to Use
