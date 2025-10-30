@@ -1,4 +1,4 @@
-# GPT-Powered｜Care & Medical Record Auto-Generation Assistant
+# GPT-Powered｜Care and Medical Records Automatic Generation Assistant
 
 > Documentation is a task.
 > People are what we should focus on.
