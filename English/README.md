@@ -19,7 +19,6 @@ Consistent, accurate records are ready instantly, freeing your time to **focus o
 ---
 
 ## Project Overview
-<img width="1280" height="720" alt="医療記録" src="https://github.com/user-attachments/assets/a07c5d83-7d2a-4cb8-b4a9-ae4d84aab016" />
 
 ### Watch on YouTube
 [![10 minutes of records, condensed to 30 seconds. ｜Care & Medical Record Auto-Generation Assistant](https://github.com/user-attachments/assets/a07c5d83-7d2a-4cb8-b4a9-ae4d84aab016)](https://youtu.be/FWrqUYlq-nk)
