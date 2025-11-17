@@ -92,7 +92,7 @@ Visited S.K.'s residence on July 7, 2025. Due to persistent lower back pain and 
 This project is currently available for purchase on Coconala.  
 For AI prompt design, customization, or implementation support, please inquire below.
 
-### 👉 [View the Coconala Sales Page](https://coconala.com/contents_market/pictures/cmf6e1w1v00bmdh0he2160a61)
+### [View the note sales page](https://note.com/truth_wave/n/n70245cb47531)
 
 Care & Medical Record Template Collection (Optional)
 
