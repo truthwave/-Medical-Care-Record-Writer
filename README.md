@@ -93,7 +93,7 @@
 このプロジェクトは、現在ココナラにて有償版を販売しています。  
 AIプロンプト設計・カスタマイズ・導入サポートをご希望の方は、以下よりご相談ください。
 
-### 👉 [ココナラの販売ページを見る](https://coconala.com/contents_market/pictures/cmf6e1w1v00bmdh0he2160a61)
+### 👉 [noteの販売ページを見る](https://note.com/truth_wave/n/n70245cb47531)
 
 介護・医療記録テンプレート集(オプション)
 
