@@ -87,16 +87,18 @@ Visited S.K.'s residence on July 7, 2025. Due to persistent lower back pain and 
 
 ---
 
-## 🛒 Use Now
+## Trying Out Truth Wave GPTs
 
-This project is currently available for purchase.  
-For AI prompt design, customization, or implementation support, please inquire below.
+The content written in this blog is designed to be usable as a “working GPT.”
 
-### [View the note sales page](https://note.com/truth_wave/n/n70245cb47531)
+- For those who want everything organized (GPT core + optional materials)
+  This plan bundles the GPT core with optional materials like checklists and templates.
+### [→ Truth Wave GPTs Set (GPT + Optional Materials)](https://note.com/truth_wave/n/n671fd69ee105)
 
-Care & Medical Record Template Collection (Optional)
 
-#### 👉 [View the Option Sales Page](https://note.com/truth_wave/n/n713bb4273dfa)
+- For those who want to try just one thing first (GPT core only)
+  This is for those who want to use only the GPT core for this specific theme, pinpointed for immediate use.
+### [→ Try this GPT as a standalone item (GPT core only)](https://note.com/truth_wave/n/n70245cb47531)
 
 ---
 
